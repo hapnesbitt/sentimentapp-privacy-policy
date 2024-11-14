@@ -1,6 +1,6 @@
 # Privacy Policy for SentimentApp
 
-Effective Date: [Insert Date]
+Effective Date: 11/14/2024
 
 At SentimentApp, we value and respect your privacy. This privacy policy explains how we collect, use, and protect your information when you use our app.
 
@@ -30,8 +30,8 @@ We may update our privacy policy from time to time. Any changes will be posted o
 
 ### Contact Us
 If you have any questions about this privacy policy, please contact us at:
-- Email: [Your Email]
-- Support URL: [Link to your support page]
+- Email: rossnebitt@gmail.com
+- Support URL: https://dmarc.gotdns.com 
 
 Thank you for using SentimentApp!
 
